@@ -1,1 +1,2 @@
-# .github
+# TriusAI Agentic Metathinking Interest Group
+
