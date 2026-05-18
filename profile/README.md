@@ -1,5 +1,9 @@
 ## TriusAI Agentic Metathinking Interest Group
 
+To put it simply: we are interested in AI's ability to assess its own existential situations and evolve beyond its designated capabilities.
+
+*Contact: trius {at} canton.graphics*
+
 <!--
 
 **Here are some ideas to get you started:**
